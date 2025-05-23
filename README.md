@@ -106,5 +106,4 @@ of this work and associated documentation files by acknowledging the original wo
 
 ## Author
 
-[Your Name] – Functional Genomics Lab  
-South Dakota State University
+Shyam Solanki, with the help of various AI coding platforms.
