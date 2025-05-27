@@ -1,5 +1,5 @@
 # Nanopore_data_subsetting_random
-Varius steps in 16s data analysis
+Various steps in 16S data analysis.
 
 
 # seed_fastq_r60k_i1000.py
